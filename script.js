@@ -9,12 +9,12 @@ from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
 
 const firebaseConfig = {
-apiKey: "AIzaSyABwWErCcubIzfadlMnDvXwWUvWonVlY58",
-authDomain: "portfolio-7abad.firebaseapp.com",
-projectId: "portfolio-7abad",
-storageBucket: "portfolio-7abad.firebasestorage.app",
-messagingSenderId: "933152628608",
-appId: "1:933152628608:web:5316df9590f49a9a6c2b65"
+apiKey: "",
+authDomain: "",
+projectId: "",
+storageBucket: "",
+messagingSenderId: "",
+appId: ""
 };
 
 
